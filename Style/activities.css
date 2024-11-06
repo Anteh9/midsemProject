@@ -1,0 +1,39 @@
+div.activities {
+    display: flex;
+    border-style: solid;
+    align-items:center;
+    justify-content: space-around;
+    flex-direction: row;
+}
+div.act1 {
+    display: flex;
+    border-style: solid;
+    justify-content: space-between;
+    flex-direction: row;
+    text-align: center;
+    width: 200px;
+    height: 500px;
+
+}
+div.act2 {
+    display: flex;
+    border-style: solid;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 200px;
+    height: 500px;
+    text-align: center;
+}    
+div.act2 {
+    display: flex;
+    border-style: solid;
+    justify-content: space-between;
+    text-align: center;
+    flex-direction: row;
+    width: 200px;
+    height: 500px;
+    }    
+body {
+    background-image: url("homePage.jpg");
+    background-repeat: none;
+}
